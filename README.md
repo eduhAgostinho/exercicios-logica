@@ -39,7 +39,7 @@ npm run test
 
 * Faça um programa que gere os primeiros N números da sequência de Fibonacci, onde N é fornecido pelo usuário.
 
---  Nível intermédio --
+--  Nível intermediário --
 
 * Implemente uma função que calcule o fatorial de um número.
 
